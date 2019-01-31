@@ -1,0 +1,33 @@
+[2018-06-05 15:31:03] [info] Start Program:
+Path:"D:\Microsoft Visual Studio\Mois Brigitte-Izabella SDA\Debug\Mois Brigitte-Izabella SDA.exe"
+Arguments:
+Working directory: "D:\Microsoft Visual Studio\Mois Brigitte-Izabella SDA\Mois Brigitte-Izabella SDA\"
+Modules: Selected: D:\Microsoft Visual Studio\Mois Brigitte-Izabella SDA\Debug\Mois Brigitte-Izabella SDA.exe Excluded: 
+Sources: Selected: D:\Microsoft Visual Studio\Mois Brigitte-Izabella SDA\Mois Brigitte-Izabella SDA Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\brigi\AppData\Local\Temp\nlufas1v.5l5 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+
+[2018-06-05 15:31:03] [info] Module: D:\Microsoft Visual Studio\Mois Brigitte-Izabella SDA\Debug\Mois Brigitte-Izabella SDA.exe is selected because it matches selected pattern: D:\Microsoft Visual Studio\Mois Brigitte-Izabella SDA\Debug\Mois Brigitte-Izabella SDA.exe
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\ntdll.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\kernel32.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\KernelBase.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\vcruntime140d.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\ucrtbased.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\msvcp140d.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\kernel.appcore.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\msvcrt.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\rpcrt4.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\sspicli.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\cryptbase.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\bcryptprimitives.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] Module: C:\Windows\SysWOW64\sechost.dll is skipped because it matches no selected patterns
+[2018-06-05 15:31:03] [info] ----------------------------------------------------
+[2018-06-05 15:31:03] [info] Coverage binary generated in file: C:\Users\brigi\AppData\Local\Temp\nlufas1v.5l5
+[2018-06-05 15:31:03] [info] ----------------------------------------------------
